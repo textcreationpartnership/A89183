@@ -1,0 +1,294 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mr VVilliam Prynn his defence of stage-plays, or A retractation of a former book of his called Histrio-mastix.</title>
+            <author>Prynne, William, 1600-1669.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89183</idno>
+            <idno type="STC">Wing M2278</idno>
+            <idno type="STC">Thomason E537_31</idno>
+            <idno type="STC">ESTC R202896</idno>
+            <idno type="EEBO-CITATION">99863033</idno>
+            <idno type="PROQUEST">99863033</idno>
+            <idno type="VID">164862</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89183)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 164862)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 83:E537[31])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Mr VVilliam Prynn his defence of stage-plays, or A retractation of a former book of his called Histrio-mastix.</title>
+                  <author>Prynne, William, 1600-1669.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed in the year 1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>An anonymous attack on: Prynne, William. Histrio-mastix.</note>
+                  <note>Annotation on Thomason copy: "Jan: 10th 1648".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Prynne, William, 1600-1669. --  Histrio-mastix.</term>
+               <term>Theater --  England --  Moral and ethical aspects --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-06</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:164862:1" rendition="simple:additions"/>
+            <p>Mr VVilliam Prynn
+His Defence of
+STAGE-PLAYS,
+OR
+A Retractation of a
+former Book of his called
+<hi>Hiſtrio-Maſtix.</hi>
+            </p>
+            <p>London, printed in the Year 1649.</p>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:164862:2"/>
+            <pb n="3" facs="tcp:164862:2"/>
+            <head>Mr VVilliam Prynn
+his Defence of
+STAGE-PLAYES.</head>
+            <head type="sub">Or a Retractation of a former
+book of his called Histrio-Mastix.</head>
+            <p>WHereas this Tyrannicall, abomina<g ref="char:EOLhyphen"/>ble,
+lewd, ſchiſmaticall, haeretical
+Army, are bent in a wilfull and
+forcible way to deſtroy all Lawfull Government;
+and to compaſſe thoſe ends, have lately infringed
+the Priviledges of Parliament, being a thing con<g ref="char:EOLhyphen"/>trary
+to all Cuſtomes, Laws, Statutes, Examples,
+Pecedents and precepts, as I have at large diſcourſed
+in my laſt book, and brought a whole Army of
+proofs againſt them; <hi>(Origen, Philo Iud. Tertullian,
+Lactantius, Euſebius, Ambroſe, Gregory, Auguſtine,
+Cyprian, Hieronimus, Baſilius, Nazianzen, Athana<g ref="char:EOLhyphen"/>ſius,
+<pb n="4" facs="tcp:164862:3"/>
+Chryſoſtomus, Barnard, Tho. Aquinas, Hook Eccl.
+Calvin,)</hi> for it is eaſie to be proved by the Fathers,
+and all Chriſtian Writers, That Authority Law<g ref="char:EOLhyphen"/>full
+is to be obeyed; I cannot yet be ſilent in a thing
+of ſo great moment; but muſt make known to the
+People of <hi>England,</hi> and to all the world, to all ſorts
+of men, nay, to men and Angels, thoſe exorbitant
+courſes in which they perſiſt ſtill: It is not long
+ago, and therefore too lately to be ſo ſoon forgot<g ref="char:EOLhyphen"/>ten,
+how Colonel <hi>Pride</hi> and diverſe others of the
+the Army did ſtop the Members of Parliament
+from doing of their duty in a moſt forcible, unlaw<g ref="char:EOLhyphen"/>full,
+ſeditious, mutinous, unexampled, and unpar<g ref="char:EOLhyphen"/>raleld
+way; among that multitude of faithfull Pa<g ref="char:EOLhyphen"/>triots
+and Parliament men, they ſeized alſo upon
+me, carryed me away by force, and reſtrained me
+of my liberty, for no offence, but onely endeavou<g ref="char:EOLhyphen"/>ring
+to diſcharge my conſcience, which is a thing I
+ſhall alwayes do, without fearing any man, any arm
+of fleſh, any Potentacie, Prelacy, ſuperintendency,
+or power terreſtiall or internall; and have done,
+witneſſe my often ſufferings from the Court, from
+the Lords, and from the Prelates, when I durſt
+maintain the truth without fear of either King,
+Lords, Prelates, Presbyterians, or Independents.
+But I let this paſſe, having already at large written
+about that injurie; but now there is another freſh
+occaſion, which hath incited my juſt indignation
+againſt this wicked and Tyrannicall Army, they did
+lately in a moſt inhumane, cruell, rough, and bar<g ref="char:EOLhyphen"/>barous
+manner take away the poor Players from
+their Houſes, being met there to diſcharge the duty
+<pb n="5" facs="tcp:164862:3"/>
+of their callings; as if this Army were fully bent
+and moſt trayterouſly and maliciouſly ſet to put
+down and depreſſe all the Kings Friends, not onely
+in Parliament but in the very Theaters; they have
+no care of Covenant or any thing elſe, but being
+moſt faedifragous would deprive the King of all his
+Rights and Prerogatives, which they are bound by
+the Covenant to maintain; and was it not alwayes
+an allowed Prerogative to Kings and great Princes
+to have Players for their Recreations, which I am
+verily perſwaded they are as little able to anſwer for
+conſidering their Covenant, as for their other illegal
+action towards us in the Parliament.</p>
+            <p>But now I know what the malicious, ill-ſpoken,
+clamorous, and obſtreperous people will object a<g ref="char:EOLhyphen"/>gainſt
+me; namely, That I did once write a Book
+againſt Stage-plays, called <hi>Histrio-maſtix,</hi> for which
+I underwent a cruel cenſure in the Starchamber.
+I confeſſe it is true, I did once ſo, but it was when
+I had not ſo cleer a light as now I have; and it is no
+diſparagement for any man to alter his judgement
+upon better information, beſides it was done long
+ago, and when the King (whoſe vertues I did not
+then ſo perfectly underſtand) governed without any
+controul, which was the time that I took the better
+to ſhew my conſcience and courage, to oppoſe that
+power which was the higheſt, but had I truly known
+the King, I muſt confeſſe with ſorrow, I ſhould not
+have compared him to <hi>Nero</hi> the moſt wicked of the
+Roman Emperors (as I did in that book) for loving
+of Stage-playes; nor have given the Queen thoſe
+bitter and cruell words of whore and ſtrumpet, for
+<pb n="6" facs="tcp:164862:4"/>
+playing a part in Mr <hi>Montagues</hi> Paſtorall, but I
+have ſuffered for that long ago, and am now ready
+to ſuffer, in diſcharging my conſcience, under what
+power ſo ever is now ſet up to Martyr me.</p>
+            <p>But that Playes are lawfull things, and are to be
+allowed as recreations for honeſt men, I need not
+quote many Authors to prove it, it will ſerve the
+turn, if I do but tell you that many good men have
+been Authors of Comaedies and Tragaedies; and ma<g ref="char:EOLhyphen"/>ny
+of them Chriſtians <hi>(Buchanon, Grotius, Henſius,
+Barclaius,)</hi> there are alſo many ancient Comaedians
+and Tragaedians among the Heathen, which were
+men of no ill note, <hi>(Menander, Soploches, Aeſchylus,
+Euripides, Aristoplanes, Terentius, Plautus, Seneca)</hi>
+and whereas I did quote many Fathers and other
+Ancient Chriſtian Authors againſt Stage-playes,
+I confeſs I was not perfectly adviſed in all the cir<g ref="char:EOLhyphen"/>cumſtances
+belonging to them, being not ſuch
+Plays as were written and acted in <hi>England</hi> of late,
+for the Recreation of our moſt gracious King and
+Queen, and many of their beſt friends: and there<g ref="char:EOLhyphen"/>fore
+diſtinctions ought to be uſed in thoſe caſes;
+for all Plays are not of one nature; and vertues, mag<g ref="char:EOLhyphen"/>nanimity,
+chaſtity, ſobriety, temperance, juſtice,
+modeſty, goodneſs, <hi>&amp;c.</hi> may be taught in Plays,
+and many men have been made the better for ſeeing
+of them. And whereas divers objections have been
+made againſt Stage-playes, for that many of them
+are profane, many of them have ſwearing and blaſ<g ref="char:EOLhyphen"/>pheming
+in them, many of them have cozening,
+cheating, legedemain, fraud, deceit, jugglings, im<g ref="char:EOLhyphen"/>poſtures,
+and other lewd things, which may teach
+<pb n="7" facs="tcp:164862:4"/>
+young people evil things, and corrupt good maners,
+I do alſo my ſelf ſpeak againſt ſuch Playes, and will
+not at all maintain them, much leſſe would I be
+content to ſuffer in ſuch a cauſe as that were. But
+that honeſt Playes may be tolerated, and not to be
+forbidden by any Army under heaven, I do maintain
+before all the world. It is true that ſome have ob<g ref="char:EOLhyphen"/>jected
+againſt Stage-Playes, that there is an unlaw<g ref="char:EOLhyphen"/>ful
+thing uſed in them, which is againſt a place in
+the Old Teſtament (and is urged by Dr <hi>Reinolds</hi> and
+other reverend men againſt Playes) namely, that
+men or boyes do wear the apparel of women, being
+expreſly forbidden in the Text. To this I anſwer,
+firſt, that if this be all, it is a fault may be eaſily
+amended; and we may do in <hi>England,</hi> as they do in
+<hi>France, Italy, Spain,</hi> and other places, where thoſe
+which play womens parts, are women indeed; and
+ſo there no offence againſt that place. But then again
+it may be objected, That that is more wanton then
+if boyes acted womens parts, and more apt to
+ingender looſe thoughts; and I my ſelf am of
+that opinion, And therefore do deſire rather to
+maintain that tenent, That mens putting on of wo<g ref="char:EOLhyphen"/>mens
+apparel is not again the Scripture in a plain
+and ordinary ſence; for it had a farther meaning, as
+one of the Rabbies affirms; for it was a cuſtom of
+men in thoſe days, when they prayed to <hi>Rimmon</hi>
+who was <hi>Mars,</hi> that they put on womens apparel, to
+ſeem like to <hi>Venus,</hi> and ſo to pleaſe that falſe god;
+and women, when they prayed to <hi>Aſhtaroth</hi> who
+was <hi>Venus,</hi> put on mens apparel, to ſeem like to
+<hi>Mars,</hi> and ſo to pleaſe that goddeſſe. And there<g ref="char:EOLhyphen"/>fore
+<pb n="8" facs="tcp:164862:5"/>
+I think, becauſe this ſcruple is ſatisfied, I may
+conclude that good Plays, which are not profane,
+lewd, bad, blaſphemous, or ungodly, may be act<g ref="char:EOLhyphen"/>ed;
+and that this wicked and tyrannical Army
+ought not to hinder, to impede, let, prohibit, or for<g ref="char:EOLhyphen"/>bid
+the acting of them; which I dare maintain to
+all the world; for I was never afrayd to ſuffer in a
+good cauſe.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
